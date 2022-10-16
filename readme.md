@@ -99,4 +99,4 @@
 - iterate over colors array
 - return span with dynamic color value
 
-link to view live page cleverakanimoh.github.io/products/
+link to view live page https://cleverakanimoh.github.io/products/
